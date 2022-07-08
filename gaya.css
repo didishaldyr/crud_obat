@@ -1,0 +1,13 @@
+body {
+        background-image: url('img/bg.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+      }
+table, th, td, tr{
+    background-color: bisque;
+}
+.center {
+        margin: 0 auto;
+        float: none;
+  }
